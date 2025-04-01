@@ -32,7 +32,7 @@ int main()
     scanf("%f", &a);
     printf("Digite o segundo número: ");
     scanf("%f", &b);
-        printf("Resultado: %.2f  %.2f = %.2f", a, b, a*b);
+        printf("Resultado: %.2f * %.2f = %.2f", a, b, a*b);
     }
     else if(op==4){
         printf("Digite o primeiro número: ");
